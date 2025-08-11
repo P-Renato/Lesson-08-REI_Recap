@@ -1,0 +1,27 @@
+{
+  "name": "lesson-08-rei_recap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P-Renato/Lesson-08-REI_Recap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/P-Renato/Lesson-08-REI_Recap/issues"
+  },
+  "homepage": "https://github.com/P-Renato/Lesson-08-REI_Recap#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
